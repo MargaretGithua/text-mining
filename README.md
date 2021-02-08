@@ -1,3 +1,3 @@
 # text-mining
-# text-mining
-This is our first read me edit
+
+This repo contains files of RapidMiner files on text mining and analysis from PubMed.
